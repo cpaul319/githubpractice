@@ -1,0 +1,3 @@
+# githubpractice
+
+manual readme
